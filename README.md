@@ -87,8 +87,8 @@ INSERT INTO authorities (username, authority) VALUES ('user', 'ROLE_USER');
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/product-app.git
-cd product-app
+git clone https://github.com/4PEAT/day08Product.git
+cd day08Product
 
 # Run with Maven
 mvn spring-boot:run
